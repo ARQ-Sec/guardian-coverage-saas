@@ -1,0 +1,3 @@
+# coverage campaign entry
+# rule_key: guardian.artifactory-api-key
+AKCpn9XDmDYnRLXCChnktFqbare9Seh2WTxvFb5Q7TKorESrt7bMjfPBYSwjj5wSSPFlof1pz
